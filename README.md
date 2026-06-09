@@ -1,4 +1,3 @@
-# BootcampDataScience_AlexandraJL
 # Bootcamp Data Science – Entregables
 
 ## Descripción
